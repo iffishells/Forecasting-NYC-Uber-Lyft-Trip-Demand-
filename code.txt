@@ -1,2 +1,21 @@
 https://github.com/iffishells/Forecasting-NYC-Uber-Lyft-Trip-Demand-
 please check out this one 
+
+
+
+Mapping :
+{
+	'Natural Gas Consumed by the Residential Sector' : NG-Residentional-sector,
+	'Natural Gas Consumed by the Commercial Sector': NG-Commercial-sector,
+	'Natural Gas Consumed by the Industrial Sector, Lease and Plant Fuel':NG-Industrial-sector,
+	'Natural Gas Consumed by the Other Industrial Sector Non-CHP':NG-Industrial-sector_01,
+	'Natural Gas Consumed by the Other Industrial Sector, CHP':NG-Industrial-sector_02
+	'Natural Gas Consumed by the Other Industrial Sector, Total': NG-Industrial-sector_total,
+	'Natural Gas Consumed by the Transportation Sector, Pipelines and Distribution':NG-Transportation-sector,
+	'Natural Gas Consumed by the Transportation Sector, Vehicle Fuel':NG-Transportation-sector_01,
+	'Natural Gas Consumed by the Transportation Sector, Total':NG-Transportation-sector_total
+	'Natural Gas Consumed by the Transportation Sector, Total':NG-Electric-Power-sector,
+	'Natural Gas Consumption, Total':NG-consumption-total
+
+
+}
